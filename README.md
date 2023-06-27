@@ -44,7 +44,8 @@ Think about guiding refactoring-work in your regular/project teams. Think of the
 You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? yes
 
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
-1. Removal of redundant code
-2. Apply meaningful comment and documentation.
-3. Code reusability
-4. Tesing the code in different level like unit testing, subsystem testing and integration testing etc.
+1. Removal of redundant code.
+2. Apply meaningful comment and documentation in code.
+3. Improve Code reusability.
+4. Tesing the code in different level like unit testing, subsystem testing and integration testing etc with 100% requirement and code coverage.
+5. Using Meaningful and Descriptive names for readability.
